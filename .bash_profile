@@ -1,7 +1,7 @@
 ## source default profile
 DIR=$(dirname "${BASH_SOURCE[0]}")
 source $DIR/settings/.profile
-export USER=$USER-upepo
+export USER=$USER-tazo
 
 ## path
 export PATH=$DIR/.local/bin:$DIR/local/bin:$DIR/bin:$DIR/../../local/bin:$PATH
