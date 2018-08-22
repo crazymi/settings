@@ -1,6 +1,6 @@
 [user]
-    name = Chanju Kim
-    email = chanju.kim@navercorp.com
+    name = Mugeun Kwon
+    email = mugeun.kwon@linecorp.com
 [core]
     editor = vim
 [diff]
@@ -19,6 +19,6 @@
 [push]
     default = current
 [credential "https://github.com"]
-    username = upepo
+    username = tazo
 [credential]
     helper = cache --timeout=3600
